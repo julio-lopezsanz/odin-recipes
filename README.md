@@ -1,1 +1,3 @@
-Este proyecto me ayudara a comprendre y practicar el uso de HTML como las bases de la creacion de una pagina web.
+Con este proyecto pondre a prueba mi conocimiento de HTML. a la vez, se practicara su uso
+y se dara una idea de como establecer una estructura basica en un documento HTML para el 
+desarrollo de una página web.
