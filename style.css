@@ -1,0 +1,35 @@
+.container{
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1500px;
+    background-color: lightsalmon;
+}
+
+body{
+    background-color: lightyellow;
+    font-family: Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 38px;
+}
+
+h2{
+    font-size: 28px;
+}
+
+p{
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+}
+
+li{
+    font-size: 18px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
