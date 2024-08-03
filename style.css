@@ -13,10 +13,12 @@ body{
 h1{
     text-align: center;
     font-size: 38px;
+    padding-top: 35px;
 }
 
 h2{
     font-size: 28px;
+    padding-left: 40px;
 }
 
 p{
@@ -32,4 +34,13 @@ li{
 img{
     display: block;
     margin: auto;
+}
+
+ul{
+    padding-left: 90px;
+}
+
+ol{
+    padding-left: 90px;
+    padding-bottom: 35px;
 }
